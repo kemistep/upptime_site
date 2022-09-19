@@ -4,17 +4,17 @@
     "url": "https://bigdata.ministep.cn/",
     "icon": "https://favicons.githubusercontent.com/bigdata.ministep.cn",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1721,
-    "timeDay": 1420,
-    "timeWeek": 1671,
-    "timeMonth": 1721,
-    "timeYear": 1721,
+    "time": 1688,
+    "timeDay": 1323,
+    "timeWeek": 1621,
+    "timeMonth": 1688,
+    "timeYear": 1688,
     "dailyMinutesDown": {}
   }
 ]
