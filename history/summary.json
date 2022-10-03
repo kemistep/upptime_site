@@ -2,7 +2,7 @@
   {
     "name": "点悟大数据",
     "url": "https://bigdata.ministep.cn/",
-    "icon": "https://favicons.githubusercontent.com/bigdata.ministep.cn",
+    "icon": "https://icons.duckduckgo.com/ip3/bigdata.ministep.cn.ico",
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1697,
-    "timeDay": 1740,
-    "timeWeek": 1872,
+    "timeDay": 1700,
+    "timeWeek": 1857,
     "timeMonth": 1697,
     "timeYear": 1697,
     "dailyMinutesDown": {}
