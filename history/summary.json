@@ -4,17 +4,17 @@
     "url": "https://bigdata.ministep.cn/",
     "icon": "https://icons.duckduckgo.com/ip3/bigdata.ministep.cn.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2240,
-    "timeDay": 12074,
-    "timeWeek": 6639,
-    "timeMonth": 3244,
-    "timeYear": 2240,
+    "time": 2239,
+    "timeDay": 8751,
+    "timeWeek": 6261,
+    "timeMonth": 3224,
+    "timeYear": 2239,
     "dailyMinutesDown": {}
   }
 ]
